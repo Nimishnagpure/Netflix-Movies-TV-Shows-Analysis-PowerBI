@@ -13,8 +13,9 @@ Conduct exploratory data analysis (EDA).
 Create interactive visualizations in Power BI.
 Identify trends in genres, languages, ratings, and release years.
 Build dynamic KPIs and filters for user interaction.
-📂 Dataset Information
 
+
+📂 Dataset Information
 The dataset contains approximately 1,040 Netflix titles with information such as:
 
 Movie ID
